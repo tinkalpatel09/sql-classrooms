@@ -1,0 +1,1 @@
+create table dep30 as select employee_id,salary,department_id from employee where department_id=30
